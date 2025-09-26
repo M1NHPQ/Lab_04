@@ -1,0 +1,76 @@
+/*
+
+filename: Pham Quang Minh
+
+author: Pham Quang Minh
+
+created: 46 BC
+
+last modified: 26/9/2025
+
+description: [html files it refers to (if known)]
+
+*/
+
+body{
+    font-family: sans-serif;
+    margin-left: 10rem;
+    margin-right: 10rem;
+    
+}
+
+article{
+    border-left: rgb(99, 175, 201) solid 3px;
+    padding-left: 1rem;
+    padding-right: 1rem;
+}
+
+
+h1 {
+    color: purple;
+    font-size: 2em; 
+    font-weight: bold;
+}
+
+h3{
+    display: none;
+}
+
+h2 {
+    color: teal;
+    font-size: 1.5em; 
+    font-weight: bold;
+}
+
+nav a{
+    text-decoration: none;
+    padding:0.2em 0.6em;
+    border: 4px solid #ccc;
+    color: black;
+}
+
+p a{
+    color: black;
+}
+
+.special{
+    color: darkorange;
+    font-weight:bold;
+}
+
+dl{
+    display: none;
+}
+
+
+table, table th, table td{
+    border: 2px solid black;
+}
+
+#images{
+    text-align: center;
+}
+
+footer{
+    text-align: right;
+}
